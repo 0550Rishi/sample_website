@@ -2,10 +2,13 @@
 
   .nav-menu {
     text-align:right;
+    target:_blank;
   }
 
   .nav-spacing {
   margin-left: 10px;
+  text-decoration: none;
+  color: blue;
 }
 
 .image-link {
